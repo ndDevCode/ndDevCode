@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Nadeesha <br>🚀 Full-Stack Developer  <br>🌐 Open Source Enthusiast <br>🧠 Lifelong Learner<br>I am currently working on a few full-stack projects.<br>I am learning frontend and backend technologies(React/Angular/Node/Spring-boot/My Sql/Mongo Db)<br>
+👋 Hello, I'm Nadeesha <br>🚀 Full-Stack Developer  <br>🌐 Open Source Enthusiast <br>🧠 Lifelong Learner<br>🏢 I am currently working on a few full-stack projects.<br>📖 I am learning frontend and backend technologies(React/Angular/Node/Spring-boot/My Sql/Mongo Db)<br>
 
 
 ## 🌐 Socials:
